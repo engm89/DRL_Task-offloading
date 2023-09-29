@@ -1,17 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 08:48:54 2019
-
-@author: song
-
-"""
-
-"""
-RL offloading training process
-
-When using different DQN algorithms, different packages need to be imported.
-
-"""
 
 import systemModel
 from DQN import DeepQNetwork as DQN
