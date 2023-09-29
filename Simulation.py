@@ -1,17 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 14 15:09:31 2019
-
-@author: song
-"""
-
-"""
-Simulation experiment
-
-Simulation based on SimPy:  https://simpy.readthedocs.io/en/latest/
-SimPy is a process-based discrete-event simulation framework based on standard Python.
-
-"""
 
 import systemModel
 from Training import OFFLOADQ
